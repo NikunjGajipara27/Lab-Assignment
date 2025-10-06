@@ -1,0 +1,22 @@
+position,city_index,city_name,lat,lon
+1,19,Alwar Bala Qila,27.5648,76.611
+2,15,Bharatpur Bird Sanctuary,27.1561,77.5011
+3,0,Jaipur (Amber Fort),26.9855,75.8513
+4,1,"Hawa Mahal, Jaipur",26.9239,75.8267
+5,3,"Jal Mahal, Jaipur",26.9618,75.8315
+6,12,Jodhpur (Mehrangarh),26.2954,73.0269
+7,17,Rajasmand Lake,26.7881,73.7048
+8,13,Ranakpur Temples,25.1099,73.397
+9,16,Mount Abu,24.5933,72.7126
+10,18,Nathdwara,24.9434,73.7472
+11,8,Kumbhalgarh Fort,25.145,73.5859
+12,9,Chittorgarh Fort,24.8896,74.6263
+13,5,Ajmer Dargah,26.4486,74.6399
+14,14,Sambhar Salt Lake,26.9211,75.0661
+15,2,"City Palace, Jaipur",26.9258,75.8204
+16,7,"Lake Pichola, Udaipur",24.574,73.6808
+17,6,Udaipur (City Palace),24.577,73.6806
+18,4,Pushkar,26.493,74.5539
+19,11,Jaisalmer Fort,26.9124,70.9121
+20,10,Bikaner Junagarh Fort,28.0167,73.316
+21,19,Alwar Bala Qila,27.5648,76.611
